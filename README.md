@@ -1,6 +1,7 @@
 ## 2. **Metodología para la solución de problemas por medio de computadoras**
 
  - Análisis de los datos
+ 
  - Diseño de la solución 
  - Prueba y depuración
  <br/>
