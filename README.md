@@ -1,4 +1,4 @@
-![](http://r72.cooltext.com/rendered/cooltext336608913348046.gif)
+![](http://r70.cooltext.com/rendered/cooltext336609547185254.png)
 
 
 ## 2. **Metodología para la solución de problemas por medio de computadoras**
