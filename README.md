@@ -1,4 +1,8 @@
-![](http://r70.cooltext.com/rendered/cooltext336609547185254.png)
+Markdown de trabajo pendiente a postear a los estudiantes que tiene repo incompleto.
+![](https://images.cooltext.com/5330941.png)
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
 
 
 ## 2. **Metodología para la solución de problemas por medio de computadoras**
