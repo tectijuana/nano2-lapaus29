@@ -15,8 +15,8 @@ Un buen hábito es llevar una metodología para solucionar un problema por más 
  <br/><br/>
  <b>- Prueba y depuración </b><br/><br/>
  El proceso de identificar y eliminar errores, para dar paso a una solución sin errores se le llama depuración. La verificación de algoritmos suele realizarse para procesos parciales como los contenidos en módulos o partes de módulos, ya que una verificación global del algoritmo puede resultar muy costosa y compleja. Durante la creación del programa es posible que se haga necesario retocar algunos aspectos de algoritmos previamente verificados, en términos de puesta a punto.
- <br/>
- 
+ <br/><br/>
+   <img src="https://elmampano.files.wordpress.com/2011/05/icon-bleachbit-ubuntuportal-1.jpg" width="300" height="300" border="0" />
 
 
 ## 3. **Técnicas para la formulación de algoritmos**
