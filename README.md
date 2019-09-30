@@ -29,6 +29,6 @@ Un buen hábito es llevar una metodología para solucionar un problema por más 
  <b>- Pseudocódigo</b> <br/><br/>
  El pseudocódigo es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. Su principal función es la de representar por pasos la solución a un problema o algoritmo, de la forma más detallada posible, utilizando un lenguaje cercano al de programación. El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre indica, se trata de un código falso
   <br/><br/>
-  <img src="https://i.ytimg.com/vi/2UvW_ziPRlM/hqdefault.jpg" width="300" height="300" border="0" />
+  <img src="https://dc722jrlp2zu8.cloudfront.net/media/django-summernote/2018-06-13/a54618fb-87f4-4aeb-a0c0-55922cdd600a.png" width="300" height="300" border="0" />
  <br/>
  
